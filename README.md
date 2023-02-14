@@ -1,3 +1,1 @@
-# spotiplay
-# spotidiscover
 # spotidiscover
